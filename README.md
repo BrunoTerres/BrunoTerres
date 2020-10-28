@@ -1,6 +1,7 @@
-                                            ### Oi, tudo bem? 👋 I'm Bruno Terres
+## Oi, tudo bem? 👋 I'm Bruno Terres
 
-                                Self-Taught Software Developer grinding hard to make something cool
+### A Self-Taught Software Developer grinding hard to make something cool
+ 
 
 
 Here are some ideas to get you started:
