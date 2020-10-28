@@ -34,8 +34,11 @@
 <img align="left" alt="TensorFlow" width="50px" src="https://www.seekicon.com/free-icon-download/tensorflow-icon_2.svg" />
 <img align="left" alt="docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+<br>
+<br>
 
-### Thinks I Love
+### Things I Love
+
 * Python
 * Machine Learning
 * Data Science
