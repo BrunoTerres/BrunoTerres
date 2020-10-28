@@ -1,7 +1,7 @@
-### Hi there 👋
+                                            ### Oi, tudo bem? 👋 I'm Bruno Terres
 
-<!--
-**BrunoTerres/BrunoTerres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                Self-Taught Software Developer grinding hard to make something cool
+
 
 Here are some ideas to get you started:
 
