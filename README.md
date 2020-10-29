@@ -1,8 +1,8 @@
 ## Oi, tudo bem? 👋 I'm Bruno Terres
 
-### A Self-Taught Software Developer grinding hard to make something cool
+### A Self-Taught Software Developer horking hard to make something cool
  
- I'm a passionate learner who's always willing to learn and work across new technologies and use then to solve real life problems 
+ I'm a passionate learner who's always willing to learn and work across new technologies and use them to solve real life problems.
  
  ### Some Personal Stuffs
 
