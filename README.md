@@ -6,8 +6,8 @@
  
  ### Some Personal Stuffs
 
-- 🔭 I’m currently working with JavaScript, Nodejs, Vuejs, React, Python...
-- 🌱 I’m currently learning OpenCV, TensorFlow and Docker
+- 🔭 I’m currently working with Python, Django, PostgreSQL and AWS
+- 🌱 I’m currently learning OpenCV, TensorFlow and Django
 - 👯 I’m looking to collaborate on Open Source and Machine Learning Projects
 - 💬 Ask me about anything...
 - 📫 How to reach me here: [Linkedin](https://www.linkedin.com/in/bruno-terres-26073a15a/)
