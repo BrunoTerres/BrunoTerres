@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning OpenCV, TensorFlow and Django
 - 👯 I’m looking to collaborate on Open Source and Machine Learning Projects
 - 💬 Ask me about anything...
-- 📫 How to reach me here: [Linkedin](https://www.linkedin.com/in/bruno-terres-26073a15a/)
+- 📫 Reach me here: [Linkedin](https://www.linkedin.com/in/bruno-terres-26073a15a/)
 
 ## Technologies 
  
